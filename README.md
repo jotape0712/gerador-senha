@@ -1,4 +1,4 @@
-# 🔐 Gerador de Senhas Simples
+# 🔐 Gerador de Senhas
 
 Um gerador de senhas para terminal em Python, fácil de usar e personalizável.
 
